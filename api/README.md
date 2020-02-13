@@ -29,16 +29,16 @@ In the `api/` directory, run `npm start`. The api will be listening on `localhos
 
 ### Plural routes
 
-GET /streams
-GET /streams/1
-POST /streams
-PUT /streams/1
-PATCH /streams/1
-DELETE /streams/1
+- GET /streams
+- GET /streams/1
+- POST /streams
+- PUT /streams/1
+- PATCH /streams/1
+- DELETE /streams/1
 
 ### Singular routes
 
-GET /streams
-POST /streams
-PUT /streams
-PATCH /streams
+- GET /streams
+- POST /streams
+- PUT /streams
+- PATCH /streams
