@@ -12,7 +12,7 @@ A streaming application that mimics Twitch.
 
 - `client`: The React front-end
 - `RTMP`: The Real Time Messaging Protocol (RTMP) Server _planned_
-- `api`: The API server _planned_
+- `api`: The API server
 
 ## What this app demonstrates
 

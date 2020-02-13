@@ -15,9 +15,15 @@ This mock API uses [JSON server](https://www.npmjs.com/package/json-server).
 
 ## db.json struture
 
-```
+```json
 {
-  "streams": [{ "id": 1, "title": "lorem", "description": "ipsum" }]
+  "streams": [
+    {
+      "title": "lorem",
+      "description": "lorem",
+      "id": 1
+    }
+  ]
 }
 ```
 
