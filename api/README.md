@@ -21,13 +21,11 @@ This mock API uses [JSON server](https://www.npmjs.com/package/json-server).
     {
       "title": "lorem",
       "description": "lorem",
-      "userId":  "2390138120938901231"
-      },
-      "id": 2
+      "userId": "219380238902183921083021",
+      "id": 1
     }
   ]
 }
-
 ```
 
 ## Starting the app
