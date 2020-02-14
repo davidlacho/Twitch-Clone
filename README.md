@@ -31,3 +31,7 @@ Use streaming software such as [OBS](https://obsproject.com/welcome). Cofigure y
 - Handling forms in Redux
 - CRUD Operations in React/Redux
 - Error handling
+
+## Screenshots
+
+![Screenshot](https://github.com/davidlacho/Twitch-Clone/blob/master/docs/streamerscreenshot.gif?raw=true)
