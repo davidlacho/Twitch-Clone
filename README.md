@@ -22,7 +22,7 @@ In each directory (`client`, `rtmp`, `api`), run `npm start`. Navigate to `local
 
 ## To stream video
 
-Use streaming software such as [OBS](https://obsproject.com/welcome). Cofigure your streaming software to stream to the RTMP server. Configuration can be found on [Node-Media-Server](https://github.com/illuspas/Node-Media-Server) for publishing live streams. Configuration should be to the id that you are trying to stream to.
+Use streaming software such as [OBS](https://obsproject.com/welcome). Configure your streaming software to stream to the RTMP server. Configuration can be found on [Node-Media-Server](https://github.com/illuspas/Node-Media-Server) for publishing live streams. Configuration should be to the id that you are trying to stream to.
 
 ## What this app demonstrates
 
