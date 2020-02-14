@@ -14,6 +14,10 @@ A streaming application that mimics Twitch.
 - `rtmp`: The Real Time Messaging Protocol (RTMP) Server
 - `api`: The API server
 
+## Getting started
+
+In each directory (`client`, `rtmp`, `api`), run `npm start`. Navigate to `localhost:3000` to begin using the streaming app.
+
 ## What this app demonstrates
 
 - Navigating around to seperate pages in our SPA
