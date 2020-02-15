@@ -18,7 +18,7 @@ A streaming application that mimics Twitch.
 
 ## Getting started
 
-In each directory (`client`, `rtmp`, `api`), run `npm start`. Navigate to `localhost:3000` to begin using the streaming app.
+In each directory (`client`, `rtmp`, `api`), run `npm install` and then `npm start`. Navigate to `localhost:3000` to begin using the streaming app.
 
 ## To stream video
 
